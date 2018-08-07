@@ -1,2 +1,2 @@
-# webpack-node
-My node.js kickstarter w/ webpack. :hammer:
+# v-todo
+REST API for vue-todo application made w/ node.js :large_blue_diamond:
